@@ -1,0 +1,26 @@
+
+*{
+    font-family: Georgia, serif;
+}
+
+.odd-elements{
+    background-color: rgb(235, 70, 70);
+    font-family: verdana, "DejaVu Sans", "sans-serif";
+
+}
+
+
+#first-div{
+    color: rgb(16, 16, 253);
+    font-size: 36px;
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+#second-div{
+    background-color: rgb(135, 243, 135);
+    font-weight: bold;
+
+}
